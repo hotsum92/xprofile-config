@@ -1,6 +1,6 @@
 #!/bin/bash
 
-xrandr --output DP-0 --rotate left 
-xrandr --output DP-0 --right-of HDMI-0 
+xrandr --output DP-0 --rotate left
+xrandr --output DP-0 --right-of HDMI-0
 xrandr --output DP-4 --above HDMI-0
 xrandr --output DP-2 --left-of HDMI-0
